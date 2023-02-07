@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 100vh;
+  max-height: none;
+
+  color: white;
+
+  background-color: hsl(217, 54%, 11%);
+}
